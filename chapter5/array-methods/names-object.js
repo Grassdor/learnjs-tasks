@@ -1,0 +1,1 @@
+let usersMapped = users.map(item => item = {fullName: item.name + ' ' + item.surname, id: item.id})

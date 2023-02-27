@@ -1,0 +1,1 @@
+let myPlanetName = "Юпитер", currentUserName = "Джон";
